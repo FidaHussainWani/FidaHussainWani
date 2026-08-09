@@ -105,7 +105,7 @@ A machine-learning-based application that recommends suitable crops based on agr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FidaHussainWani&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -122,7 +122,7 @@ A machine-learning-based application that recommends suitable crops based on agr
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FidaHussainWani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ A machine-learning-based application that recommends suitable crops based on agr
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FidaHussainWani&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
