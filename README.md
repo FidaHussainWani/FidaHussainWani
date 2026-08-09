@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./fida_github_profile_header.gif" width="100%" alt="Fida Wani GitHub Profile">
+  <img src="./fida_github_profile_header.gif.png" width="100%" alt="Fida Wani GitHub Profile">
 </p>
 
 ## 👨‍💻 About Me
