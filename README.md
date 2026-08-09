@@ -1,0 +1,193 @@
+# 👋 Hi, I'm Fida Wani
+
+### 🚀 B.Tech CSE (AI & ML) Student | Java Developer | Machine Learning Enthusiast
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Java+%7C+Spring+Boot+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech Computer Science Engineering (AI & ML) student at **Lovely Professional University**
+* 💻 Passionate about **Java, Spring Boot, Machine Learning, Full-Stack Development & UI/UX**
+* 🤖 Interested in building practical **AI/ML applications**
+* 🌱 Currently improving my skills in **Spring Boot, REST APIs, Databases & Machine Learning**
+* 🔨 I enjoy solving problems and building projects that combine software development with AI
+* 📚 Constantly learning new technologies and improving my programming skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
+</p>
+
+### 🌐 Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+</p>
+
+**Libraries & Frameworks:**
+
+`NumPy` • `Pandas` • `Scikit-learn` • `PyTorch` • `OpenCV` • `Streamlit`
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Surveillance & Suspicious Activity Detection
+
+An AI-powered CCTV surveillance system designed to classify suspicious activities and generate a timeline of detected events.
+
+**Tech:** Python • PyTorch • OpenCV • ResNet18 • Random Forest • Scikit-learn • Streamlit
+
+**Key Features:**
+
+* 🎥 CCTV/video analysis
+* 🧠 AI-based activity classification
+* 🚨 Suspicious activity detection
+* 📊 Timeline generation
+* 📄 Downloadable reports
+* 🌐 Streamlit web interface
+
+---
+
+### 📚 Library Management System
+
+A desktop-based library management application developed using Java Swing.
+
+**Tech:** Java • Java Swing • Trie • BST • HashMap
+
+**Features:**
+
+* 📖 Book management
+* 🔐 User authentication
+* 🔍 Fast book searching
+* 📥 Issue and return operations
+* 💾 Data persistence
+
+---
+
+### 📝 PrepMate – Notes Management Platform
+
+A full-stack notes management platform designed to help students organize and manage their study materials.
+
+**Tech:** Java • Spring Boot • REST API • MySQL • AI/LLM Integration
+
+---
+
+### 🌾 Crop Recommendation System
+
+A machine-learning-based application that recommends suitable crops based on agricultural and environmental parameters.
+
+**Tech:** Python • Machine Learning • Scikit-learn • Flask
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FidaHussainWani&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📜 Certifications & Training
+
+🎓 **Fundamentals of Data Structures**
+*Summer Training — June 2025 to July 2025*
+
+* Arrays
+* Linked Lists
+* Stacks & Queues
+* Trees & Graphs
+* Searching & Sorting Algorithms
+* Java & Java Swing
+
+📜 **Mastering in C: Basic to Beyond**
+*25-hour Live C Programming Course*
+
+---
+
+## 🎯 Current Goals
+
+```text
+☑ Learn Java & Spring Boot
+☑ Build REST APIs
+☑ Work with MySQL
+☑ Improve Data Structures & Algorithms
+☑ Build AI/ML Projects
+☐ Contribute to Open Source
+☐ Build Production-Level Applications
+☐ Get Industry Internship / Placement
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/fida-wani/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:fidawani20022@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+⭐ **Thanks for visiting my profile!**
+
+</p>
+
