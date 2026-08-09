@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fida Wani
+# 👋 Hi, I'm Fida Hussain Wani
 
 ### 🚀 B.Tech CSE (AI & ML) Student | Java Developer | Machine Learning Enthusiast
 
@@ -106,7 +106,7 @@ A machine-learning-based application that recommends suitable crops based on agr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FidaHussainWani&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidaHussainWani&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -137,18 +137,44 @@ A machine-learning-based application that recommends suitable crops based on agr
 
 ## 📜 Certifications & Training
 
-🎓 **Fundamentals of Data Structures**
-*Summer Training — June 2025 to July 2025*
+### ☕ Industry-Oriented Program – Core Java, Java Full Stack Development & Cloud Deployment
 
-* Arrays
-* Linked Lists
-* Stacks & Queues
-* Trees & Graphs
-* Searching & Sorting Algorithms
-* Java & Java Swing
+**CipherSchools, India**  
+📅 **Jan 2026 – May 2026**
 
-📜 **Mastering in C: Basic to Beyond**
-*25-hour Live C Programming Course*
+Successfully completed an industry-oriented training program covering:
+
+- ☕ Core Java
+- 🌐 Java Full Stack Development
+- 🔗 Backend Development
+- 🗄️ Database & SQL
+- ☁️ Cloud Deployment
+- 🚀 Application Development
+
+**Certificate ID:** `CS2026-17356`
+
+---
+
+### 💻 Fundamentals of Data Structures
+
+**Summer Training — June 2025 to July 2025**
+
+Covered:
+
+- Arrays
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Searching & Sorting Algorithms
+- Java & Java Swing
+
+---
+
+### 🔵 Mastering in C: Basic to Beyond
+
+**25-Hour Live C Programming Course**
+
+Covered fundamental and advanced concepts of C programming, problem solving, and programming fundamentals.
 
 ---
 
