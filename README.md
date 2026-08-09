@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Fida Hussain Wani
-
-### 🚀 B.Tech CSE (AI & ML) Student | Java Developer | Machine Learning Enthusiast
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Java+%7C+Spring+Boot+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="./fida_github_profile_header.gif" width="100%" alt="Fida Wani GitHub Profile">
 </p>
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering (AI & ML)
+- 💻 Java Developer
+- 🤖 Machine Learning Enthusiast
 
 ---
 
